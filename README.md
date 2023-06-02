@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My name is Hamed 😎
+
+## I'm a lot of things, inlcuding:
+
+## - Software Developer 💻
+
+## - Skater 🛹
+
+## - Video Editor 👨🏽‍💻
+
+## - Digital Artist 🖌️
+
+## - Guitarist 🎸
+
+## - and much more!
